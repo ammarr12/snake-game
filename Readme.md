@@ -1,4 +1,4 @@
-# 🐍 Snake Game 🕹️
+# Multi Player 🐍 Snake Game 🕹️
 Welcome to the Snake Game — a fun 🐍 arcade-style Python game where two players race to eat fruit and grow their snakes! Made with the 🐢 turtle graphics module, this classic game brings nostalgic arcade vibes right into your terminal. 
 
 
@@ -6,7 +6,7 @@ Welcome to the Snake Game — a fun 🐍 arcade-style Python game where two play
 
 ### ✨ Two-Player Mode
 Control two snakes at once — one with arrow keys and the other with WASD! 
-GitHub
+
 
 ### 🐀 Fruit Collection
 Eat fruit 🍎 to score points and grow your snake longer! 
